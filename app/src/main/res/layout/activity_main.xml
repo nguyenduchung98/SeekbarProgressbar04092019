@@ -9,16 +9,16 @@
 
     <SeekBar
         android:id="@+id/seekbar"
-        android:secondaryProgress="70"
-        android:progress="50"
-        android:progressTint="@color/colorPrimary"
+
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:thumbTint="@color/colorPrimary" />
+        android:layout_height="wrap_content" />
     <SeekBar
         android:id="@+id/seekbar"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        />
+        android:layout_height="wrap_content" />
+    <SeekBar
+        android:id="@+id/seekbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
 
 </LinearLayout>
